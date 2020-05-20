@@ -6,11 +6,13 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body {
-    font-family: montserrant, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
-nav {
+.navbar {
     background-color: #0E5801;
     height: 80px;
     width: 100%;
@@ -24,22 +26,22 @@ label.logo {
     font-weight: bold;
 }
 
- nav h1 { 
+ .navbar h1 { 
     display: none;
 }
 
-nav ul {
+.navbar ul {
     float: right;
     margin-right: 15px;
 }
 
-nav ul li {
+.navbar li {
     display: inline-block;
     line-height: 80px;
     margin: 0 4px;
 }
 
-nav ul li a {
+.navbar ul li a {
     color: white;
     font-size: 16px;
     padding: 6px 12px;
