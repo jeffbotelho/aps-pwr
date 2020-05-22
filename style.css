@@ -29,15 +29,6 @@ p {
     text-align: justify;
 }
 
-.container {
-    width: 65%;
-    max-width: 1125px;
-    height: 65%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 10px;
-}
-
 figure.foto-legenda {
     position: relative;
     border: 8px soliid white;
