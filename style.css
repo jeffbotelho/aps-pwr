@@ -57,6 +57,16 @@ figure.foto-legenda:hover figcaption {
     opacity: 1;
 }
 
+footer {
+    color: #606060;
+    border-top: 1px solid #0E5801;
+}
+
+footer p {
+    text-align: center;
+    padding: 5px 0;
+}
+
 li {
     text-align: justify;
 }
@@ -64,3 +74,6 @@ li {
 .molecula {
     float: right;
 }
+
+
+
