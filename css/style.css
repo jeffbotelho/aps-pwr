@@ -2,6 +2,10 @@ body {
     font-size: 20px;
 }
 
+p {
+    text-align: justify;
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -11,7 +15,19 @@ a:hover {
     color: #0E5801;
 }
 
+header {
+    margin-bottom: 2em;
+}
+
+footer {
+    margin-top: 2em;
+}
+
 footer a:hover {
     text-decoration: none;
     color: white;
+}
+
+.row {
+    margin-bottom: 1em;
 }
